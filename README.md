@@ -17,13 +17,13 @@ on GCP, and practiced CI/CD and TDD in agile teams. I also led the
 development of the [Push Notifications SDK](https://docs.unity.com/ugs/manual/push-notifications/manual/sdk) for the Unity Game Engine.
 
 🎓
- Academically, my paper [Foveated Animations for Efficient Crowd 
-Simulation](https://lfirsl.github.io/foveated-animations-project/) was published and presented at [I3D 2025](https://i3dsymposium.org/2025/), following an 80/100 
+ Academically, I achieved a First Degree BSc with honours, and my paper, [Foveated Animations for Efficient Crowd 
+Simulation](https://lfirsl.github.io/foveated-animations-project/), was published and presented at [I3D 2025](https://i3dsymposium.org/2025/) following an 80/100 
 grade in my BSc final year project. I'm currently working on a 
 benchmarking framework for container orchestration schedulers as part of
  my MSci research.
 
-🎮 Personally, I’ve served on the committee 
+🎮 As a personal passion, I’ve served on the committee 
 for the [University of Leeds eSports and Video Games Society](https://engage.luu.org.uk/groups/H37/esports-and-video-games), organizing 
 weekly events and managing university eSports teams for UK-wide 
 tournaments.
