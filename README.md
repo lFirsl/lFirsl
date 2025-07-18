@@ -1,7 +1,3 @@
-🚩**𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐟𝐨𝐫 𝐫𝐨𝐥𝐞𝐬 
-𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟐𝟓 𝐢𝐧 𝐄𝐝𝐢𝐧𝐛𝐮𝐫𝐠𝐡 
-𝐨𝐫 𝐟𝐮𝐥𝐥𝐲 𝐫𝐞𝐦𝐨𝐭𝐞.** 🚩
-
 ## About Me
 🧑‍💻 Final-year MSci Computer 
 Science (Cloud Computing) student at the University of Leeds, with a 
