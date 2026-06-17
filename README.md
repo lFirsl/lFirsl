@@ -9,4 +9,4 @@ Quick facts:
 - I've worked at Unity for a year helping develop a subset of the [Unity Gaming Services](https://docs.unity.com/en-us/services/_index).
 - I've developed [COUBES](https://github.com/lFirsl/COUBES), a prototype simulated platform for benchmarking the performance of Container Orchestration Schedulers.
 
-You can find more details about me on my [LinkedIn!](https://www.linkedin.com/in/florin-vladimir-stancu/), where you are also free to reach out to me!
+You can find more details about me on my [LinkedIn](https://www.linkedin.com/in/florin-vladimir-stancu/), where you are also free to reach out to me!
